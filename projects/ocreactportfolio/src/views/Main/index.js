@@ -1,7 +1,7 @@
 import React from "react";
 import NavBar from "../../components/NavBar";
+import Me from "../../img/me.png";
 import "./style.css";
-import waterImage from "../../img/ocean.jpg";
 
 function MainPage() {
   return (
@@ -9,14 +9,19 @@ function MainPage() {
       <NavBar />
 
       <div className="col-md">
-        <div class="mobile-image">
-          <h4>OLIVER CRONK</h4>
-        </div>
+        <div className="mobile-image"></div>
         <div className="intro-text alignCenter">
-          <h5>
-            Full-Stack Software Engineer <br></br>
+          <h2 className="mobile-title">OLIVER CRONK</h2>
+          <br></br>
+          <h3 className="intro">
+            Full-Stack Web Developer. <br></br>
             Bringing brands to life through design and interaction.
-          </h5>
+          </h3>
+          <br></br>
+          <br></br>
+          <button type="button" className="readMore btn btn-info" href="#">
+            Read More
+          </button>
         </div>
       </div>
       <div className="col-md">

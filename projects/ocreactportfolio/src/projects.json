@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Coding Buddy",
+    "image": "logo.svg",
+    "about": "These days more and more people are trying to learn to code in their own free time and online. This doesnt present many opportunities to collaborate or work with other people. This applicaiton presents the opportunity to work with other people who might have skills in areas you might be lacking as well as you help them out in areas you might be strong in.",
+    "technologies": ["Node", "Express", "Handlebars", "MySQL", "JavaScript"],
+    "repo": "https://github.com/ojc011/Coding-buddy",
+    "site": "https://coding-bud.herokuapp.com/"
+  },
+  {
+    "title": "Run Buddy",
+    "image": "../../logo.svg",
+    "about": "A model website that would offer fitness training services",
+    "technologies": ["CSS", "HTML"],
+    "repo": "https://github.com/ojc011/run-buddy",
+    "site": "https://ojc011.github.io/run-buddy/"
+  },
+  {
+    "title": "Bearly Tolerable Jokes",
+    "image": "logo.svg",
+    "about": "Bearly Tolerable Jokes is an entertainment website that combines hilarious jokes with adorable images of bears from around the world. The site is a simple two button page: one button allows the user to genearte a new joke & bear pic while the other button navigates the user to learn more about a specific type of bear.",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "repo": "https://github.com/ojc011/Group-Project",
+    "site": "https://asiajcrew.github.io/Group-Project/"
+  },
+  {
+    "title": "E-commerce backend",
+    "image": "logo.svg",
+    "about": "A mysql database/application backend for e-commerce site. App is built using Express, MySQL2, dotenv, and sequelize.",
+    "technologies": ["JavaScript", "MySQL", "Node", "Sequelize", "Express"],
+    "repo": "https://github.com/ojc011/e-commerce-backend",
+    "site": null
+  }
+]
