@@ -38,7 +38,6 @@ function About() {
                   <li className="skill">Node</li>
                   <li className="skill">Express</li>
                   <li className="skill">SQL</li>
-                  <li className="skill">Logo & Web Design</li>
                   <li className="skill">Project Management</li>
                 </ul>
               </p>
