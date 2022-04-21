@@ -11,7 +11,7 @@ function Project() {
       return (
         <div className="row projectRow">
           <div className="col-md-4">
-            <img src={project.image} alt={project.title}></img>
+            <img src={project.image} alt={project.title} width="200px"></img>
           </div>
           <div className="col-md-8">
             <h4 className="projectTitle">{project.title}</h4>
@@ -47,7 +47,7 @@ function Project() {
             </div>
           </div>
           <div className="col-md-4">
-            <img src={project.image} alt={project.title}></img>
+            <img src={project.image} alt={project.title} width="200px"></img>
           </div>
         </div>
       );
