@@ -12,10 +12,13 @@ function SocialLinks() {
       <div className="row">
         <div className="col-sm" />
         <div className="col-sm text-center">
-          <a href="https://www.github.com/alexastef" target="_blank">
+          <a href="https://github.com/ojc011" target="_blank">
             <i class="fab fa-github-square fa-3x" />
           </a>
-          <a href="https://www.linkedin.com/in/alexastef" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/oliver-cronk-222548100/"
+            target="_blank"
+          >
             <i class="fab fa-linkedin fa-3x" />
           </a>
         </div>
