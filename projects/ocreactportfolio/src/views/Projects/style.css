@@ -1,0 +1,36 @@
+html {
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.viewTwo {
+    width: 100%;
+    background-color: #d4f1f5;
+}
+
+.viewTitle {
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 15vh;
+    font-size: 45px;
+    letter-spacing: 8px;
+    color: darkslategray;
+}
+
+.technologies {
+    list-style-type: none;
+}
+
+.techUsed {
+    display: block;
+    text-align: left;
+    text-decoration: none;
+    float: left;
+    padding: 20px;
+}
+
+.projectRow {
+    margin-bottom: 15vh;
+}

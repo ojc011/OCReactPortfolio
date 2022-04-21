@@ -14,8 +14,7 @@ function MainPage() {
           <h2 className="mobile-title">OLIVER CRONK</h2>
           <br></br>
           <h3 className="intro">
-            Full-Stack Web Developer. <br></br>
-            Bringing brands to life through design and interaction.
+            Web Developer. <br></br>
           </h3>
           <br></br>
           <br></br>
@@ -32,5 +31,3 @@ function MainPage() {
 }
 
 export default MainPage;
-
-// this page is the landing page with short intro sentence and split screen water and dust
