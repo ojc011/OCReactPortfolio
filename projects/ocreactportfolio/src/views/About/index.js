@@ -1,5 +1,5 @@
 import React from "react";
-import MeOnWater from "../../img/ocean.jpg";
+import MeOnWater from "../../img/me.png";
 import "./style.css";
 
 function About() {
