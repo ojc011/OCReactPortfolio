@@ -1,12 +1,10 @@
 import React from "react";
 import "./style.css";
-// import NavBar from "../../components/NavBar";
-// Spot for sticky navbar
 import Project from "../../components/Project";
 
 function Projects() {
   return (
-    <div className="viewTwo">
+    <div className="viewTwo" id="projects">
       <div className="row">
         <div className="col-md">
           <h3 className="viewTitle" id="projectsTitle">
