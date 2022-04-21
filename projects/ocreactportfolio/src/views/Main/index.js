@@ -11,10 +11,11 @@ function MainPage() {
       <div className="col-md">
         <div className="mobile-image"></div>
         <div className="intro-text alignCenter">
-          <h2 className="mobile-title">OLIVER CRONK</h2>
+          <h2 className="mobile-title">Oliver Cronk</h2>
           <br></br>
           <h3 className="intro">
-            Web Developer. <br></br>
+            Web Developer.<br></br>
+            Innovation through design.
           </h3>
           <br></br>
           <br></br>
@@ -31,3 +32,4 @@ function MainPage() {
 }
 
 export default MainPage;
+
