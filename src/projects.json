@@ -1,7 +1,7 @@
 [
   {
     "title": "Coding Buddy",
-    "image": "logo.svg",
+    "image": "https://github.com/ojc011/Coding-buddy/raw/main/public/images/coding-buddy-img.jpg",
     "about": "These days more and more people are trying to learn to code in their own free time and online. This doesnt present many opportunities to collaborate or work with other people. This applicaiton presents the opportunity to work with other people who might have skills in areas you might be lacking as well as you help them out in areas you might be strong in.",
     "technologies": ["Node", "Express", "Handlebars", "MySQL", "JavaScript"],
     "repo": "https://github.com/ojc011/Coding-buddy",
@@ -9,23 +9,23 @@
   },
   {
     "title": "Run Buddy",
-    "image": "../../logo.svg",
+    "image": "https://i.imgur.com/55zTXUV.png",
     "about": "A model website that would offer fitness training services",
     "technologies": ["CSS", "HTML"],
     "repo": "https://github.com/ojc011/run-buddy",
     "site": "https://ojc011.github.io/run-buddy/"
   },
   {
-    "title": "Bearly Tolerable Jokes",
-    "image": "logo.svg",
-    "about": "Bearly Tolerable Jokes is an entertainment website that combines hilarious jokes with adorable images of bears from around the world. The site is a simple two button page: one button allows the user to genearte a new joke & bear pic while the other button navigates the user to learn more about a specific type of bear.",
-    "technologies": ["HTML", "CSS", "JavaScript"],
-    "repo": "https://github.com/ojc011/Group-Project",
-    "site": "https://asiajcrew.github.io/Group-Project/"
+    "title": "Chef Foluke",
+    "image": "https://i.imgur.com/OstGvVx.jpg",
+    "about": "Small business are always looking for a way to get the word out there reach potential customers. For this project we decided to help out a personal chef who was in need of a functional website. Previously, Chef Foluke had a website built, but was not fully functioning. We decided to help fill in that gap.",
+    "technologies": ["ReactJS", "Node", "HTML", "CSS", "MongoDB", "Mongoose"],
+    "repo": "https://github.com/MaverickCavazos/personal-chef",
+    "site": "https://guarded-headland-93069.herokuapp.com/"
   },
   {
     "title": "E-commerce backend",
-    "image": "logo.svg",
+    "image": "https://i.imgur.com/pL7K5dg.png",
     "about": "A mysql database/application backend for e-commerce site. App is built using Express, MySQL2, dotenv, and sequelize.",
     "technologies": ["JavaScript", "MySQL", "Node", "Sequelize", "Express"],
     "repo": "https://github.com/ojc011/e-commerce-backend",
