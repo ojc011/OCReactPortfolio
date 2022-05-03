@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ocreactportfolio/static/css/main.ccdecea9.css",
-    "main.js": "/ocreactportfolio/static/js/main.db6b8399.js",
-    "static/js/787.a2cb61a6.chunk.js": "/ocreactportfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/ocean.jpg": "/ocreactportfolio/static/media/ocean.54e5e1bb98d310dca9a5.jpg",
-    "static/media/space.jpg": "/ocreactportfolio/static/media/space.1fb72928a61c383e2687.jpg",
-    "static/media/OliverCPortfolio.pdf": "/ocreactportfolio/static/media/OliverCPortfolio.b6dd8092b775b89e687c.pdf",
-    "static/media/me.png": "/ocreactportfolio/static/media/me.6354f12110fc16ed1baf.png",
-    "index.html": "/ocreactportfolio/index.html",
-    "main.ccdecea9.css.map": "/ocreactportfolio/static/css/main.ccdecea9.css.map",
-    "main.db6b8399.js.map": "/ocreactportfolio/static/js/main.db6b8399.js.map",
-    "787.a2cb61a6.chunk.js.map": "/ocreactportfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/OCReactPortfolio/static/css/main.071faf12.css",
+    "main.js": "/OCReactPortfolio/static/js/main.a791c0b0.js",
+    "static/js/787.a2cb61a6.chunk.js": "/OCReactPortfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/ocean.jpg": "/OCReactPortfolio/static/media/ocean.54e5e1bb98d310dca9a5.jpg",
+    "static/media/space.jpg": "/OCReactPortfolio/static/media/space.1fb72928a61c383e2687.jpg",
+    "static/media/OliverCPortfolio.pdf": "/OCReactPortfolio/static/media/OliverCPortfolio.b6dd8092b775b89e687c.pdf",
+    "static/media/me.png": "/OCReactPortfolio/static/media/me.6354f12110fc16ed1baf.png",
+    "index.html": "/OCReactPortfolio/index.html",
+    "main.071faf12.css.map": "/OCReactPortfolio/static/css/main.071faf12.css.map",
+    "main.a791c0b0.js.map": "/OCReactPortfolio/static/js/main.a791c0b0.js.map",
+    "787.a2cb61a6.chunk.js.map": "/OCReactPortfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccdecea9.css",
-    "static/js/main.db6b8399.js"
+    "static/css/main.071faf12.css",
+    "static/js/main.a791c0b0.js"
   ]
 }
