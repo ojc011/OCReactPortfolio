@@ -29,9 +29,8 @@ function About() {
                   Some of the skills I bring to the table:
                 </span>
                 <ul className=" skillList text-center">
-                  <li className="skill">
-                    Adobe Creative Suite (special love for Illustrator)
-                  </li>
+                  <br></br>
+                  <li className="skill">Python</li>
                   <li className="skill">JavaScript</li>
                   <li className="skill">ReactJS</li>
                   <li className="skill">HTML & CSS</li>

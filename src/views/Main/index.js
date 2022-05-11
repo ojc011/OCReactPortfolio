@@ -15,7 +15,7 @@ function MainPage() {
           <br></br>
           <h2 className="intro">Web Developer</h2>
           <br></br>
-          <h3>Innovation through Design.</h3>
+          <h3>Innovation through Design & Collaboration.</h3>
           <br></br>
           <br></br>
           <Link to="about" activeClass="active" spy={true} smooth={true}>
