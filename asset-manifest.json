@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/OCReactPortfolio/static/css/main.071faf12.css",
-    "main.js": "/OCReactPortfolio/static/js/main.a791c0b0.js",
+    "main.css": "/OCReactPortfolio/static/css/main.43b03534.css",
+    "main.js": "/OCReactPortfolio/static/js/main.c5862f9c.js",
     "static/js/787.a2cb61a6.chunk.js": "/OCReactPortfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/ocean.jpg": "/OCReactPortfolio/static/media/ocean.54e5e1bb98d310dca9a5.jpg",
     "static/media/space.jpg": "/OCReactPortfolio/static/media/space.1fb72928a61c383e2687.jpg",
-    "static/media/OliverCPortfolio.pdf": "/OCReactPortfolio/static/media/OliverCPortfolio.b6dd8092b775b89e687c.pdf",
+    "static/media/OliverCPortfolio.pdf": "/OCReactPortfolio/static/media/OliverCPortfolio.12ecda7f58932e0e95c7.pdf",
     "static/media/me.png": "/OCReactPortfolio/static/media/me.6354f12110fc16ed1baf.png",
     "index.html": "/OCReactPortfolio/index.html",
-    "main.071faf12.css.map": "/OCReactPortfolio/static/css/main.071faf12.css.map",
-    "main.a791c0b0.js.map": "/OCReactPortfolio/static/js/main.a791c0b0.js.map",
+    "main.43b03534.css.map": "/OCReactPortfolio/static/css/main.43b03534.css.map",
+    "main.c5862f9c.js.map": "/OCReactPortfolio/static/js/main.c5862f9c.js.map",
     "787.a2cb61a6.chunk.js.map": "/OCReactPortfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.071faf12.css",
-    "static/js/main.a791c0b0.js"
+    "static/css/main.43b03534.css",
+    "static/js/main.c5862f9c.js"
   ]
 }
