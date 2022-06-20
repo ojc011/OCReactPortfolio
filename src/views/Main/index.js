@@ -1,7 +1,7 @@
-import React from "react";
-import NavBar from "../../components/NavBar";
-import "./style.css";
-import { Link } from "react-scroll";
+import React from 'react';
+import NavBar from '../../components/NavBar';
+import './style.css';
+import { Link } from 'react-scroll';
 
 function MainPage() {
   return (
@@ -33,3 +33,4 @@ function MainPage() {
 }
 
 export default MainPage;
+
