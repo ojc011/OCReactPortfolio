@@ -1,6 +1,6 @@
-import React from "react";
-import "./style.css";
-import Project2 from "../../components/Project2";
+import React from 'react';
+import './style.css';
+import Project2 from '../../components/Project2';
 
 function Projects() {
   return (
@@ -12,6 +12,7 @@ function Projects() {
           </h3>
         </div>
       </div>
+      &nbsp;
       <div className="row">
         <Project2 />
       </div>

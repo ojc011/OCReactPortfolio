@@ -17,7 +17,7 @@
   },
   {
     "title": "Run Buddy",
-    "image": "https://i.imgur.com/55zTXUV.png",
+    "image": "https://i.imgur.com/yZd4eub.png",
     "about": "A model website that would offer fitness training services",
     "technologies": ["CSS", "HTML"],
     "repo": "https://github.com/ojc011/run-buddy",
@@ -25,7 +25,7 @@
   },
   {
     "title": "Chef Foluke",
-    "image": "https://i.imgur.com/OstGvVx.jpg",
+    "image": "https://i.imgur.com/RrAhVpR.png",
     "about": "Small business are always looking for a way to get the word out there reach potential customers. For this project we decided to help out a personal chef who was in need of a functional website. Previously, Chef Foluke had a website built, but was not fully functioning. We decided to help fill in that gap.",
     "technologies": ["ReactJS", "Node", "HTML", "CSS", "MongoDB", "Mongoose"],
     "repo": "https://github.com/MaverickCavazos/personal-chef",

@@ -21,14 +21,14 @@
 
 .repoBtn,
 .siteBtn {
-  background-color: #338aad;
+  background-color: #203242;
   color: #f5f5f5;
-  border:  #338aad solid 1px;
+  border: solid 1px;
   border-radius: 0;
   font-family: 'Montserrat', sans-serif;
   display: block;
   margin: auto;
-  width: 90%;
+  width: 75%;
 }
 
 .repoBtn:hover,
@@ -44,6 +44,8 @@ a,
 a:hover {
   text-decoration: none;
 }
+
+
 
 @media (max-width: 540px) {
   .card {

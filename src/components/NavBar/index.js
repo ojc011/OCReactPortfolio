@@ -24,10 +24,11 @@ function NavBar() {
           <li className="nav-item navbar-text">
             <Link
               to="projects"
-              className="nav-link"
+              className="nav-link glow-on-hover"
               activeClass="active"
               spy={true}
               smooth={true}
+              type="button"
             >
               PROJECTS
             </Link>
@@ -35,10 +36,11 @@ function NavBar() {
           <li className="nav-item navbar-text">
             <Link
               to="about"
-              className="nav-link"
+              className="nav-link glow-on-hover"
               activeClass="active"
               spy={true}
               smooth={true}
+              type="button"
             >
               ABOUT
             </Link>
@@ -57,10 +59,11 @@ function NavBar() {
           <li className="nav-item navbar-text">
             <Link
               to="resume"
-              className="nav-link"
+              className="nav-link glow-on-hover"
               activeClass="active"
               spy={true}
               smooth={true}
+              type="button"
             >
               RESUME
             </Link>
@@ -68,10 +71,11 @@ function NavBar() {
           <li className="nav-item navbar-text">
             <Link
               to="contact"
-              className="nav-link"
+              className="nav-link glow-on-hover"
               activeClass="active"
               spy={true}
               smooth={true}
+              type="button"
             >
               CONTACT
             </Link>
