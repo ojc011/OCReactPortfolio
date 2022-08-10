@@ -32,11 +32,18 @@
     "site": "https://guarded-headland-93069.herokuapp.com/"
   },
   {
-    "title": "E-commerce backend",
-    "image": "https://i.imgur.com/pL7K5dg.png",
-    "about": "A mysql database/application backend for e-commerce site. App is built using Express, MySQL2, dotenv, and sequelize.",
-    "technologies": ["JavaScript", "MySQL", "Node", "Sequelize", "Express"],
-    "repo": "https://github.com/ojc011/e-commerce-backend",
-    "site": null
+    "title": "Ruby Address Book",
+    "image": "https://i.imgur.com/dmYNsLw.png",
+    "about": "A simple address book using Ruby on Rails with user authentication (login/signup).",
+    "technologies": [
+      "Ruby",
+      "Ruby on Rails",
+      "JavaScript",
+      "PostgreSQL",
+      "HTML",
+      "SCSS"
+    ],
+    "repo": "https://github.com/ojc011/WLTechAssess-OC",
+    "site": "https://still-wildwood-14883.herokuapp.com/"
   }
 ]
