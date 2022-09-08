@@ -1,8 +1,46 @@
 [
   {
+    "title": "eCommerce - Firebase",
+    "image": "https://i.imgur.com/D8zic5R.png",
+    "about": "Massive e-commerce application similar to Shopify using React, Redux, React Hooks, React Suspense, React Router, GraphQL, Context API, Firebase, Redux-Saga, Stripe + more. This is a full stack app (MERN stack), using Firebase.",
+    "technologies": [
+      "ReactJS",
+      "NodeJS",
+      "Stripe",
+      "Redux",
+      "Authentication",
+      "Styled Components"
+    ],
+    "repo": "https://github.com/ojc011/ecommerce-business",
+    "site": "https://sunny-capybara-4ce7ae.netlify.app/"
+  },
+  {
+    "title": "Monsters Rolodex",
+    "image": "https://i.imgur.com/mb4GoXg.png",
+    "about": "A demo, single-paged react project which displays Robots, their names, and details about them in a card styled homepage. You also have the ability to sort through the monsters.",
+    "technologies": ["ReactJS", "NodeJS", "HTML", "CSS", "JavaScript"],
+    "repo": "https://github.com/ojc011/monsters-rolodex",
+    "site": "https://ojc011.github.io/monsters-rolodex/"
+  },
+  {
+    "title": "Ruby Address Book",
+    "image": "https://i.imgur.com/dmYNsLw.png",
+    "about": "A simple address book using Ruby on Rails with user authentication (login/signup).",
+    "technologies": [
+      "Ruby",
+      "Ruby on Rails",
+      "JavaScript",
+      "PostgreSQL",
+      "HTML",
+      "SCSS"
+    ],
+    "repo": "https://github.com/ojc011/WLTechAssess-OC",
+    "site": "https://still-wildwood-14883.herokuapp.com/"
+  },
+  {
     "title": "eCommerce-Full-Stack Project",
     "image": "https://i.imgur.com/fIFgTto.png",
-    "about": "This project is one of my first post-bootcamp adventures! Using MERN stack, I am currently building an ecommerce website using javascript, css, html, mongodb, react, express, node, etc. As challenging as it has been, I have learned a lot so far and can't wait to have a finished product. This website is intended for professional use as it is being designed for a colleague that wishes to utilize its functionality and be deployed to the internet. It has also been a tremendous opportunity to build upon my skill set and hopefully catch the eye of any employer who passes over my github/portfolio.",
+    "about": "Using MERN stack, This is an ecommerce website using javascript, css, html, mongodb, react, express, node, etc.",
     "technologies": ["JavaScript", "MongoDB", "Express", "ReactJS", "NodeJS"],
     "repo": "https://github.com/ojc011/ecommercebiz",
     "site": "https://mern-ecommercebiz-oliver.herokuapp.com/"
@@ -30,20 +68,5 @@
     "technologies": ["ReactJS", "Node", "HTML", "CSS", "MongoDB", "Mongoose"],
     "repo": "https://github.com/MaverickCavazos/personal-chef",
     "site": "https://guarded-headland-93069.herokuapp.com/"
-  },
-  {
-    "title": "Ruby Address Book",
-    "image": "https://i.imgur.com/dmYNsLw.png",
-    "about": "A simple address book using Ruby on Rails with user authentication (login/signup).",
-    "technologies": [
-      "Ruby",
-      "Ruby on Rails",
-      "JavaScript",
-      "PostgreSQL",
-      "HTML",
-      "SCSS"
-    ],
-    "repo": "https://github.com/ojc011/WLTechAssess-OC",
-    "site": "https://still-wildwood-14883.herokuapp.com/"
   }
 ]

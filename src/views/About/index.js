@@ -29,6 +29,14 @@ function About() {
                 <li className="skill">Ruby / Ruby on Rails"</li>
                 <li className="skill">JavaScript</li>
                 <li className="skill">ReactJS</li>
+                <li className="skill">Redux</li>
+                <li className="skill">Context API</li>
+                <li className="skill">React Hooks</li>
+                <li className="skill">Firebase</li>
+                <li className="skill">React Router</li>
+                <li className="skill">Styled Components</li>
+                <li className="skill">GraphQL</li>
+                <li className="skill">Testing</li>
                 <li className="skill">HTML & CSS</li>
                 <li className="skill">Node</li>
                 <li className="skill">Express</li>
@@ -36,7 +44,8 @@ function About() {
                 <li className="skill">PostgreSQL</li>
               </ul>
             </p>
-            <p className="bio">I look forward to working with you!</p>
+            <br></br>
+            <h3 className="bio">I look forward to working with you!</h3>
           </div>
         </div>
       </div>
