@@ -1,5 +1,21 @@
 [
   {
+    "title": "SCBeauty",
+    "image": "https://i.imgur.com/ehfoxXg.png",
+    "about": "Massive e-commerce application similar to Shopify using React, Redux, React Hooks, React Suspense, React Router, GraphQL, Context API, Firebase, Redux-Saga, Stripe + more. This is a full stack app (MERN stack), using Firebase.",
+    "technologies": [
+      "ReactJS",
+      "NodeJS",
+      "TypeScript",
+      "JavaScript",
+      "Pagination",
+      "Mobile Responsiveness",
+      "Netlify"
+    ],
+    "repo": "https://github.com/ojc011/SCBeauty2",
+    "site": "https://scbeauty4u.com/"
+  },
+  {
     "title": "eCommerce - Firebase",
     "image": "https://i.imgur.com/D8zic5R.png",
     "about": "Massive e-commerce application similar to Shopify using React, Redux, React Hooks, React Suspense, React Router, GraphQL, Context API, Firebase, Redux-Saga, Stripe + more. This is a full stack app (MERN stack), using Firebase.",
