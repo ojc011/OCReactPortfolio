@@ -20,6 +20,41 @@
     "site": "https://protected-headland-88748-bda816a51a41.herokuapp.com/"
   },  
   {
+    "title": "Sales Goal Tracker",
+    "image": "https://i.imgur.com/A17N0RN.png",
+    "about": "Sales Goal Tracker is a web application that helps sales professionals and teams set, monitor, and achieve their sales targets. With real-time tracking and progress visualization, users can easily stay motivated and focused on their sales goals. The app also offers features such as log management, excluded jobs tracking, and goal reset, making it a valuable tool for sales performance management. Repo and website link are private, thank you.",    
+    "technologies": [
+      "React",
+      "Firebase",
+      "HTML2Canvas",
+      "React Router",
+      "Firebase Authentication", 
+      "Firebase Realtime Database", 
+      "React Context API",
+      "Styled Components", 
+      "HTML5", 
+      "CSS3",
+      "JavaScript"
+    ]
+    
+  },
+  {
+    "title": "Email Automation Application",
+    "image": "https://i.imgur.com/S3MqzXI.png",
+    "about": "The Email Automation Application is a Python-based tool built using the tkinter library for creating a user interface. It allows users to automate the process of sending emails to recipients listed in a CSV file. The application supports specifying the subject, email body, and can send emails with HTML content. It also includes features like saving and loading presets for email templates, stopping the email sending process, and scanning and updating the CSV file to remove invalid recipients.",
+    "technologies": [
+      "Python",
+      "tkinter",
+      "CSV Processing",
+      "Email Sending (SMTP)",
+      "Email Receiving (IMAP)",
+      "MIME Email Composition",
+      "Multithreading",
+      "JSON Configuration",
+      "Beautiful Soup"
+    ]
+  },  
+  {
     "title": "SCBeauty",
     "image": "https://i.imgur.com/ehfoxXg.png",
     "about": "SCBeauty is a modern web application built using TypeScript, a typed superset of JavaScript that adds additional features to the language to improve code quality and maintainability. TypeScript is used throughout the project to ensure type safety and reduce errors. The front-end of the application is built with React.js, a popular JavaScript library used for building user interfaces. React.js is used to create components that make up the application's user interface. These components are written in a combination of TypeScript, JavaScript, CSS, and HTML. TypeScript is used to define the props and state of each component, while JavaScript is used to handle logic and events. CSS is used to style the components, and HTML is used to structure the content. The back-end of the application is built with Node.js, a popular JavaScript runtime built on the V8 engine. Node.js is used in conjunction with Express, a lightweight web framework for Node.js, to handle incoming requests and serve data from the database. Overall, SCBeauty2 leverages a combination of technologies and programming languages to create a fast, scalable, and user-friendly web application.",
@@ -56,52 +91,5 @@
     "technologies": ["ReactJS", "NodeJS", "HTML", "CSS", "JavaScript"],
     "repo": "https://github.com/ojc011/monsters-rolodex",
     "site": "https://ojc011.github.io/monsters-rolodex/"
-  },
-  {
-    "title": "Ruby Address Book",
-    "image": "https://i.imgur.com/dmYNsLw.png",
-    "about": "A simple address book using Ruby on Rails with user authentication (login/signup).",
-    "technologies": [
-      "Ruby",
-      "Ruby on Rails",
-      "JavaScript",
-      "PostgreSQL",
-      "HTML",
-      "SCSS"
-    ],
-    "repo": "https://github.com/ojc011/WLTechAssess-OC",
-    "site": "https://still-wildwood-14883.herokuapp.com/"
-  },
-  {
-    "title": "eCommerce-Full-Stack Project",
-    "image": "https://i.imgur.com/fIFgTto.png",
-    "about": "Using MERN stack, This is an ecommerce website using javascript, css, html, mongodb, react, express, node, etc.",
-    "technologies": ["JavaScript", "MongoDB", "Express", "ReactJS", "NodeJS"],
-    "repo": "https://github.com/ojc011/ecommercebiz",
-    "site": "https://mern-ecommercebiz-oliver.herokuapp.com/"
-  },
-  {
-    "title": "Coding Buddy",
-    "image": "https://github.com/ojc011/Coding-buddy/raw/main/public/images/coding-buddy-img.jpg",
-    "about": "These days more and more people are trying to learn to code in their own free time and online. This doesnt present many opportunities to collaborate or work with other people. This applicaiton presents the opportunity to work with other people who might have skills in areas you might be lacking as well as you help them out in areas you might be strong in.",
-    "technologies": ["Node", "Express", "Handlebars", "MySQL", "JavaScript"],
-    "repo": "https://github.com/ojc011/Coding-buddy",
-    "site": "https://coding-bud.herokuapp.com/"
-  },
-  {
-    "title": "Run Buddy",
-    "image": "https://i.imgur.com/yZd4eub.png",
-    "about": "A model website that would offer fitness training services",
-    "technologies": ["CSS", "HTML"],
-    "repo": "https://github.com/ojc011/run-buddy",
-    "site": "https://ojc011.github.io/run-buddy/"
-  },
-  {
-    "title": "Chef Foluke",
-    "image": "https://i.imgur.com/RrAhVpR.png",
-    "about": "Small business are always looking for a way to get the word out there reach potential customers. For this project we decided to help out a personal chef who was in need of a functional website. Previously, Chef Foluke had a website built, but was not fully functioning. We decided to help fill in that gap.",
-    "technologies": ["ReactJS", "Node", "HTML", "CSS", "MongoDB", "Mongoose"],
-    "repo": "https://github.com/MaverickCavazos/personal-chef",
-    "site": "https://guarded-headland-93069.herokuapp.com/"
   }
 ]
